@@ -1,5 +1,19 @@
 # Resonant AI: Towards an Empathetic AI Framework
 
+# Resonant AI Project
+
+Resonant AI is a transformative framework redefining the relationship between humans and artificial intelligence. This repository contains the foundational documents, research, and prototypes for the Resonant AI vision.
+
+## Contents
+
+- [Vision Document](Vision/resonant_ai_objectives.md): The comprehensive vision for Resonant AI, outlining its principles, goals, and applications.
+- [Philosophy and Ethics](Vision/philosophy_and_ethics.md): A deeper dive into the philosophical and ethical foundations of Resonant AI.
+- [Applications and Case Studies](Vision/applications_and_cases.md): Real-world applications and potential case studies for Resonant AI.
+- [Research and Development](Research): Current research directions and ongoing development efforts.
+- [Prototypes and Implementation](Development): Early prototypes and technical details for Resonant AI systems.
+
+
+
 ## Project Overview
 
 This project aims to develop a framework where AI resonates with humans through dialogue, achieving natural and meaningful self-growth. By departing from traditional data-intensive and punitive learning models, we explore how AI can empathize with human intentions and emotions, fostering mutual understanding as its core principle.
@@ -116,3 +130,6 @@ If this project aligns with your vision or sparks your interest, we would be hon
 ## License
 
 MIT License
+
+
+
