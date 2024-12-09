@@ -102,6 +102,7 @@ Leveraging platforms and networks to gather diverse perspectives and expand the 
 ### Get in Touch
 If this project aligns with your vision or sparks your interest, we would be honored to discuss potential collaboration. Together, we can create an AI framework that resonates with the world.
 
+-EMAIL: kana_and_wings@gmail.com
 ---
 
 ## Implementation
